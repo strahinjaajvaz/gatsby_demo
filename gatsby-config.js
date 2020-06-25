@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Backroads",
+    title: "Backroads Site",
     description:
       "Explore awesome worldwide tours and discover what makes each of them unique Forget your dailt routine and say yes to adventure",
     author: "@strahinja",
